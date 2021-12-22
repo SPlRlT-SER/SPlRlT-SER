@@ -10,9 +10,9 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/18052196558?text=Hello%20SPlRlT%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-SPlRlT-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/splrltser"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/18052196558?text=Hello%20SPlRlT%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-SPlRlT-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA"><img title="Author" src="https://img.shields.io/badge/Youtube-SPlRlTSIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ## Bots you can deploy <a href="https://github.com/SPlRlTSER/SPlRlT SER"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=SPlRlT&message=Bot&color=black"></a> <a href="https://github.com/pepesir/SPlRlT-SER"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
