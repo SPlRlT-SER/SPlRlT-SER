@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="SPlRlT" alt="SPlRlT" width="150" />
+<img src="https://i.imgur.com/aAGjt7z.jpg" alt="SPlRlT" width="150" />
 
 ## SPlRlT SIR 🌝💝
 
