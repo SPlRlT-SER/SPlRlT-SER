@@ -15,13 +15,13 @@
 <a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
-## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
+## Bots you can deploy <a href="https://github.com/SPlRlTSER/SPlRlT SER"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=SPlRlT&message=Bot&color=black"></a> <a href="https://github.com/pepesir/SPlRlT-SER"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
 
 
 <hr></hr>
 
-![My card name](https://cardivo.vercel.app/api?name=SPlRlT-SER&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=SPlRlT-SER&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/aAGjt7z.jpg.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=SPlRlT&twitter=&)
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
