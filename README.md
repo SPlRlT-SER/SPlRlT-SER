@@ -1,8 +1,8 @@
 
 <div align="center">
-<img src="https://i.imgur.com/aAGjt7z.jpg" alt="SPlRlT" width="150" />
+<img src="https://i.imgur.com/VCg4004.jpg" alt="SPlRlT" width="150" />
 
-## SPlRlT SIR 🌝💝
+## SPIRIT SIR 🌝💝
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <hr></hr>
 
-![My card name](https://cardivo.vercel.app/api?name=SPlRlT-SER&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=b.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=SPlRlT&twitter=&)
+![My card name](https://cardivo.vercel.app/api?name=SPlRlT-SER&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=https://i.imgur.com/VCg4004.jpg.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=SPlRlT&twitter=&)
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
